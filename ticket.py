@@ -162,4 +162,4 @@ productos = [c01,g01,z01]
 cantidades = [5,10,10]
 pedido_hoy = Pedido(productos,cantidades)
 pedido_hoy.mostrar_pedido()
-
+print("Print de pruebas2"
